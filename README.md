@@ -1,7 +1,10 @@
 **# Static Website Deployment Project**
 
 ## Project Overview
-This project demonstrates the deployment of a static website using a cloud platform and a web server. It encompasses essential DevOps practices, including Infrastructure as Code (IaC), server configuration, and automation. The goal is to deploy a static website that is accessible via a public IP address or domain name.
+This project demonstrates the deployment of a static website using a cloud platform and a web server. It encompasses essential DevOps practices, server configuration and automation without going too deep into other technical areas. The goal is to deploy a static website that is accessible via a public IP address or domain name.
+
+## About site
+The site is a simple static website that displays basic information about the developer. It is a practice project and part of an introductory/test task for the HNG intership program.
 
 ## Technologies Used
 For the purpose of this project the following technologies were used:
