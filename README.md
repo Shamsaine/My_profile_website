@@ -5,9 +5,9 @@ This project demonstrates the deployment of a static website using a cloud platf
 
 ## Technologies Used
 For the purpose of this project the following technologies were used:
-Cloud Platform: AWS EC2
-Web Server: NGINX / Apache
-Infrastructure as Code (IaC): Terraform (or may be AWS CloudFormation (Undecided yet))
+static website: written in HTML and styled with CSS and JavaScript
+Cloud Platform: Google Cloude Platform
+Web Server: configured and deployed with NGINX 
 
 ## Project Structure
 
@@ -17,18 +17,9 @@ Infrastructure as Code (IaC): Terraform (or may be AWS CloudFormation (Undecided
 ├── script.js
 ├── server_config
 │   ├── nginx.conf
-│   └── apache.conf
-├── terraform
-│   ├── main.tf
-│   └── variables.tf
-├── ansible
-│   ├── playbook.yml
-│   └── roles/
 └── README.md
 **
 
-## Set Up and Deployment
-
-
 ## License
-This project is licensed under the MIT License.
+This project is part of the HNG Internship program. To know more follow the link https://hng.tech/
+©2024 shamsaine...
